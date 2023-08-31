@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1687808383 source:c:\users\kaiky\onedrive\햞ea de trabalho\berenice v4\final boss\goods.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"goods.h"
+
+1687784975 c:\users\kaiky\onedrive\햞ea de trabalho\berenice v4\final boss\goods.h
+
+1687802981 source:c:\users\kaiky\onedrive\햞ea de trabalho\berenice v4\final boss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"goods.h"
+
+1687753736 c:\users\kaiky\onedrive\햞ea de trabalho\berenice v4\final boss\selling.h
+
+1687753738 source:c:\users\kaiky\onedrive\햞ea de trabalho\berenice v4\final boss\selling.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"goods.h"
+
